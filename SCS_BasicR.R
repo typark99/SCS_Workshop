@@ -188,13 +188,13 @@ getwd()
 #########################
 # Exercise 
 #########################
-# Download SoftDrink.csv and save it to the directory you want to use for this course.
+# Download the csv files and save them to the directory you want to use for this course.
 # Follow the instruction above to set up your working directory.
 
 # Run
 list.files()
 
-# See if SoftDrink.csv appears in the console window.
+# See if the csv files appear in the console window.
 
 
 ########################################################
